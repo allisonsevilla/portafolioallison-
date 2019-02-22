@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+
+	 font-family: 'Coiny', cursive;
+	 text-align: center;
+	 background: url(); 
+
+}
+
+body>a{
+	text-align: left;
+}
+
+header{
+	margin: 10px auto;
+	width: 100%;
+	text-align: center;
+	position: relative;
+}
+
+
+#principal>ul>li{
+	display: inline-block;
+	margin: 35px;
+	padding: 10px;
+	background-color: #FFB2AD;
+}
+#formulario{
+   padding: 50px;
+   text-align: center;
+ 
+}
+
+#mapa{
+
+	padding: 40px;
+	margin: 30px;
+	text-align: center;
+
+}
+#conteneflex{
+	width: 80%;
+	text-align: center;
+	margin: 10px auto;
+	padding: 5px;
+}
+
+#acercade{
+	padding: 80px;
+	margin: 35px;
+	text-align: center;
+
+}
+#fotos{
+	display: inline-block;
+	width: 100%;
+}
+.info2{
+	display: inline-block;
+	width: 22.5%;
+	vertical-align: top;
+}
+#foto>h2,{
+	color: #fff;
+	font-family: 'Pacifico', cursive;
+	font-size: 1.62rem;
+	position: absolute;
+	bottom:0px; 
+	left: 10px;
+}
+
